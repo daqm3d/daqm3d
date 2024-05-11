@@ -1,6 +1,15 @@
 ### Hi there 👋
+<!--
+[![Github stats](https://github-readme-stats.vercel.app/api?username=daqm3d&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
+<br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&locale=es)](https://github.com/daqm3d/github-readme-stats)
+#### Top Repositories
+<a href="https://github.com/daqm3d/PracticasCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daqm3d&repo=PracticasCode&theme=vue-dark" />
+</a>
 
 <!--
 **daqm3d/daqm3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
