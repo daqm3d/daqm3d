@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact)](https://github.com/daqm3d/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&locale=es)](https://github.com/daqm3d/github-readme-stats)
 
 <!--
 **daqm3d/daqm3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
