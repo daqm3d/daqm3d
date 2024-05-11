@@ -25,7 +25,8 @@
 
 
 <!--
-logos:https://simpleicons.org/?q=proxmox
+logos: https://simpleicons.org/?q=proxmox
+Badges: https://github.com/Ileriayo/markdown-badges
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
