@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daqm3d)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="index" width="400" height="165" styles="margin-left: 10px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="index" width="400" height="165" styles="margin-right: 10px;" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
   
 ### 👨‍💻 Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
