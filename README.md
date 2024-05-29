@@ -1,10 +1,10 @@
-## Welcome 👋
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Welcome" width="25" height="25" />  Welcome <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Welcome" width="25" height="25" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daqm3d@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daqm3d)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="index" width="400" height="165" styles="margin-left: 10px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
   
 ### 👨‍💻 Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
