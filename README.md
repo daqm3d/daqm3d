@@ -1,4 +1,10 @@
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Welcome" width="25" height="25" />  Welcome <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Welcome" width="25" height="25" />
+<div align="center" >
+
+<h1 style="display: flex; justify-content: space-between;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Welcome" width="20" height="20" />
+    Hi, Welcome
+    <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Welcome" width="25" height="25" />
+</h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daqm3d@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daqm3d)
@@ -10,16 +16,18 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daqm3d&layout=compact&theme=vue-dark" alt="Top Langs">
     </a>
 </div>
-  
+
+</div>
+
 ### 👨‍💻 Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=Javascript)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e?style=flat&logo=vuedotjs)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=Astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e?style=flat&logo=vuedotjs)
 
 ### 👨‍💻 Tools and Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -37,6 +45,7 @@
 <!--
 logos: https://simpleicons.org/?q=proxmox
 Badges: https://github.com/Ileriayo/markdown-badges
+Gif: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file#welcome
 
 ###  Hosting
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
