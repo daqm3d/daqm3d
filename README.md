@@ -39,8 +39,7 @@
 ![PROXMOX](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 <!--
 logos: https://simpleicons.org/?q=proxmox
@@ -64,6 +63,7 @@ Gif: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=daqm3d&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
 
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Top Posth
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="25" height="25" /> Top Repositories
 <a href="https://github.com/daqm3d/PracticasCode">
