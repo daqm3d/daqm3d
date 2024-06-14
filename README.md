@@ -19,7 +19,7 @@
 
 </div>
 
-### 👨‍💻 Languages and Frameworks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=Javascript)
@@ -29,7 +29,7 @@
 ![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=Astro&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e?style=flat&logo=vuedotjs)
 
-### 👨‍💻 Tools and Technologies 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Tools and Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=Mariadb)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white)
@@ -45,9 +45,9 @@
 <!--
 logos: https://simpleicons.org/?q=proxmox
 Badges: https://github.com/Ileriayo/markdown-badges
-Gif: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file#welcome
+Gif: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file#welcome   https://telegram-animated-emojis.vercel.app/
 
-###  Hosting
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Hosting
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -65,8 +65,7 @@ Gif: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme
 [![Github stats](https://github-readme-stats.vercel.app/api?username=daqm3d&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/daqm3d/github-readme-stats)
 
 
-
-#### Top Repositories
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="25" height="25" /> Top Repositories
 <a href="https://github.com/daqm3d/PracticasCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daqm3d&repo=PracticasCode&theme=vue-dark" />
 </a>
