@@ -27,7 +27,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=Astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e?style=flat&logo=vuedotjs)
+![Vue.js](https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Tools and Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -37,9 +37,10 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=Git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=flat&logo=Postgresql&logoColor=white)
 ![PROXMOX](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
 
 <!--
 logos: https://simpleicons.org/?q=proxmox
