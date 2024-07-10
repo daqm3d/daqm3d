@@ -2,7 +2,7 @@
 
 <h1 style="display: flex; justify-content: space-between;">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Welcome" width="20" height="20" />
-    Hi, Welcome
+    Hi, Welcome my friend
     <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Welcome" width="25" height="25" />
 </h1>
 
