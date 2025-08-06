@@ -28,6 +28,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=Astro&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![YII2 Framework](https://img.shields.io/badge/YII2%20Framework-40B3D8?style=flat&logo=yii&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Tools and Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
